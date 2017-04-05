@@ -1,6 +1,10 @@
 Program  TSSPlant
 -----------------
 
+Reference: Shahmuradov I., Umarov R., Solovyev V.  TSSPlant: a new tool for prediction of 
+plant Pol II promoters. (2017) Nucleic Acids Research, doi: 10.1093/nar/gkw1353
+
+
 ACTION: Search for plant RNA Polymerase II TATA and TATA-less 
         promoters with defined Transcription Start Site (TSS)
 	in a single or multiple Query DNA sequences.
