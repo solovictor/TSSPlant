@@ -1,0 +1,1 @@
+./TSSPlant -i:TSSPlant_example.seq -o:TSSPlant_example.res -t:n &

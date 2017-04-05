@@ -1,0 +1,321 @@
+List of   106 RE motifs in [101:200], (+/- chains) of "Pos" SEQs |Similarity: >= 80%; Found in >=  5.00% of "Pos" SEQs and <= 30.00% of "Neg" SEQs; Ratio of "Pos" and "Neg" FREQs:   1.50
+  106
+AC: RSP00015//OS: Arabidopsis thaliana /GENE: AtCDC6/RE: E2F1-BE /BF: E2F1
+tttcccgc
+     8     1
+AC: RSP00021//OS: Catharantus roseus /GENE: TDC/RE: GT-1#Box7 /BF: GT-1
+aaaaagtaaaaa
+    12     2
+AC: RSP00030//OS: tobacco (Nicotiana sylvestris) /GENE: OLP/RE: ERRE /BF: EREBP
+agccgcc
+     7     1
+AC: RSP00043//OS: rice (Oryza sativa) (Oryza sativa) /GENE: rab16A-D/RE: Motif I core /BF: TAF-1,transacting factor
+tacgtggc
+     8     1
+AC: RSP00049//OS: barley (Hordeum vulgare) /GENE: HVA22/RE: G-box /BF: unknown nuclear factor
+cgcacgtgtc
+    10     2
+AC: RSP00056//OS: Brassica napus /GENE: napA/RE: ABRE Bd /BF: ABI3
+gccacttgtc
+    10     2
+AC: RSP00057//OS: maize (Zea mays) /GENE: rab28/RE: ABRE B /BF: ABF
+tccacgtctc
+    10     2
+AC: RSP00063//OS: rice (Oryza sativa), Oryza sativa /GENE: rab16B/RE: Motif III /BF: unknown nuclear factor
+gccgcgtggc
+    10     2
+AC: RSP00070//OS: rice (Oryza sativa) /GENE: Osem/RE: ABRE motif A /BF: TRAB1
+tacgtgtc
+     8     1
+AC: RSP00073//OS: tobacco (Nicotiana tabacum) /GENE: synthetic oligonucleotides/RE: PA /BF: TAF-1
+gccacgtggc
+    10     2
+AC: RSP00075//OS: tobacco (Nicotiana tabacum) /GENE: synthetic oligonucleotides/RE: Iwt /BF: TAF-1
+gtacgtggcg
+    10     2
+AC: RSP00079//OS: bean, Phaseolus vulgaris /GENE: PAL2/RE: AC-I /BF: unknown nuclear factor
+cccacctacc
+    10     2
+AC: RSP00082//OS: tobacco (Nicotiana plumbaginifolia) /GENE: GLB/RE: AGC-box /BF: unknown nuclear factor
+agccgcc
+     7     1
+AC: RSP00097//OS: maize (Zea mays) /GENE: GapC4/RE: 9-mer box /BF: tobacco nuclear factors
+acggtcca
+     8     1
+AC: RSP00110//OS: Phaseolus vulgaris /GENE: beta-phaseolin, or phas/RE: ACGT motif /BF: unknown nuclear factor
+cacacgtc
+     8     1
+AC: RSP00122//OS: pea, Pisum sativum /GENE: AS1/RE: Box C /BF: unknown nuclear protein
+ctcccac
+     7     1
+AC: RSP00132//OS: Phaseolus vulgaris /GENE: beta-phaseolin, or phas/RE: vicilin box /BF: ROM1, ROM2
+gccacctc
+     8     1
+AC: RSP00142//OS: Phaseolus vulgaris /GENE: beta-phaseolin, or phas/RE: GC-rich motif /BF: unknown nuclear factor
+cgccgcg
+     7     1
+AC: RSP00143//OS: rice (Oryza sativa), Oryza sativa /GENE: Osem/RE: CE3 /BF: TRAB1
+gacgcgtgtc
+    10     2
+AC: RSP00153//OS: Parsley, Petroselinum crispum /GENE: CHS/RE: Box II /BF: CPRF-1; CPRF-2; CPRF-3;
+ccacgtggcc
+    10     2
+AC: RSP00154//OS: parsley (Petroselinum crispum) /GENE: CHS/RE: ACE (CHS) /BF: bZIP factors CPRF1, CPRF4
+ccacgtggcc
+    10     2
+AC: RSP00163//OS: soybean (Glycine max) /GENE: synthetic oligonucleotides/RE: DR5 /BF: ARF1
+ccttttgtctc
+    11     2
+AC: RSP00165//OS: tobacco (Nicotiana tabacum) /GENE: RNP2/RE: E2Fa /BF: E2F
+tttcccgc
+     8     1
+AC: RSP00175//OS: Arabidopsis thaliana /GENE: synthetic oligonucleotides/RE: ABRE /BF: ABFs
+cacgtggc
+     8     1
+AC: RSP00183//OS: tobacco (Nicotiana tabacum) /GENE: OLIGO-GUS/RE: G-box 10 /BF: G-box binding bZIP proteins
+gccacgtgcc
+    10     2
+AC: RSP00204//OS: Arabidopsis thaliana /GENE: AtEm6/RE: ABRE/6.2 /BF: ABI5
+gacacgtggc
+    10     2
+AC: RSP00214//OS: Arabidopsis thaliana /GENE: synthetic oligonucleotides/RE: Hex motif /BF: TGA1; GBF1;
+tgacgtgg
+     8     1
+AC: RSP00215//OS: wheat (Triticum aestivum) /GENE: H3/RE: Hex /BF: HBP-11(17); HBP-1b(c38);
+ccacgtca
+     8     1
+AC: RSP00248//OS: rice (Oryza sativa), Oryza sativa /GENE: alpha-globulin/RE: REB2 /BF: REB
+gccacgtcag
+    10     2
+AC: RSP00274//OS: tobacco (Nicotiana tabacum) /GENE: OLIGO-GUS/RE: G-box 1 /BF: G-box binding bZIP proteins
+gccacgtggc
+    10     2
+AC: RSP00298//OS: tobacco (Nicotiana benthamiana) /GENE: PCNA/RE: E2F-1 /BF: E2F
+tttcccgc
+     8     1
+AC: RSP00340//OS: soybean (Glycine max) /GENE: GmAux28/RE: B1-core /BF: SGBF-1; SGBF-2;
+tccacgtgtc
+    10     2
+AC: RSP00358//OS: rice (Oryza sativa) /GENE: Rep-1/RE: CARE2 /BF: unknown nuclear factor
+caactccc
+     8     1
+AC: RSP00359//OS: barley (Hordeum vulgare) /GENE: HVA1s/RE: GCCGAC motif /BF: HvCBF1
+gccgac
+     6     1
+AC: RSP00379//OS: Lemna gibba /GENE: Lhcb2 (cabAB19)/RE: LS7 /BF: unknown nuclear factor
+cggatagggc
+    10     2
+AC: RSP00397//OS: tobacco (Nicotiana tabacum) /GENE: RNP2/RE: CDE /BF: unknown nuclear factor
+agtggcgg
+     8     1
+AC: RSP00420//OS: Eucalyptus gunnii /GENE: CCR/RE: ACI /BF: unknown nuclear factor
+cccacctacc
+    10     2
+AC: RSP00438//OS: Arabidopsis thaliana /GENE: PR-1/RE: PR-box /BF: unknown nuclear factor
+ggcggc
+     6     1
+AC: RSP00523//OS: carrot (Daucus carota) /GENE: Dc3/RE: E3-core /BF: DPBF-1; DPBF-2;
+acacgcg
+     7     1
+AC: RSP00524//OS: carrot (Daucus carota) /GENE: Dc3/RE: E4-core /BF: DPBF-1; DPBF-2;
+acacgtg
+     7     1
+AC: RSP00601//OS: tomato (Lycopersicon esculentum), Lycopersicon esculentum /GENE: rbcS2/RE: C-rich R /BF: unknown nuclear factor
+ccccaccaa
+     9     1
+AC: RSP00621//OS: tomato (Lycopersicon esculentum), Lycopersicon esculentum /GENE: rbcS2/RE: C-rich Q /BF: unknown nuclear factor
+cccctcctc
+     9     1
+AC: RSP00640//OS: maize (Zea mays) /GENE: GRF1/RE: G-box /BF: GBF
+tcacgtgg
+     8     1
+AC: RSP00641//OS: maize (Zea mays) /GENE: GRF2/RE: G-box /BF: GBF
+tcacgtgg
+     8     1
+AC: RSP00653//OS: spinach (Spinacia oleracea) /GENE: petH/RE: CT-LB /BF: unknown nuclear factor
+ttctctctcct
+    11     2
+AC: RSP00682//OS: Arabidopsis thaliana /GENE: Adh/RE: -214 G-box (core) /BF: GBF3
+gccacgtgga
+    10     2
+AC: RSP00723//OS: tobacco (Nicotiana plumbaginifolia) /GENE: rbcS 8B/RE: G-box /BF: HY5
+cacgtggc
+     8     1
+AC: RSP00740//OS: tobacco (Nicotiana tabacum) /GENE: OLIGO-GUS/RE: G-box 11 /BF: G-box binding bZIP proteins
+gccacgtgag
+    10     2
+AC: RSP00783//OS: tobacco (Nicotiana tabacum) /GENE: OLIGO-GUS/RE: G-box 7 /BF: G-box binding bZIP proteins
+tacacgtggc
+    10     2
+AC: RSP00784//OS: tobacco (Nicotiana tabacum) /GENE: OLIGO-GUS/RE: G-box 8 /BF: G-box binding bZIP proteins
+tccacgtggc
+    10     2
+AC: RSP00785//OS: tobacco (Nicotiana tabacum) /GENE: OLIGO-GUS/RE: G-box 9 /BF: G-box binding bZIP proteins
+gtcacgtgcc
+    10     2
+AC: RSP00807//OS: Arabidopsis thaliana /GENE: PDF1.2/RE: GCC box /BF: Pti4
+gccgcc
+     6     1
+AC: RSP00809//OS: Arabidopsis thaliana /GENE: peroxidase ATP1a/RE: GCC box /BF: Pti4
+gccgcc
+     6     1
+AC: RSP00811//OS: Arabidopsis thaliana /GENE: BTF3/RE: GCC box /BF: Pti4
+gccgcc
+     6     1
+AC: RSP00814//OS: Arabidopsis thaliana /GENE: PR-4/RE: GCC box /BF: Pti4
+gccgcc
+     6     1
+AC: RSP00819//OS: Arabidopsis thaliana /GENE: F3H/RE: ACE-core (AtF3H) /BF: ACE-binding factor
+gccacgtctt
+    10     2
+AC: RSP00821//OS: Arabidopsis thaliana /GENE: FLS/RE: ACE-core (AtFLS) /BF: ACE-binding factor
+gccacgtcct
+    10     2
+AC: RSP00838//OS: Arabidopsis thaliana /GENE: H4A748/RE: CCGTCG motif /BF: Unknown nuclear factor
+ccgtcg
+     6     1
+AC: RSP00847//OS: maize (Zea mays) /GENE: H3C4/RE: NON /BF: Unknown nuclear factor
+ccacctcatc
+    10     2
+AC: RSP00861//OS: Arabidopsis thaliana /GENE: STK/RE: GA-2 /BF: BPC1
+agaaagaga
+     9     1
+AC: RSP00863//OS: Arabidopsis thaliana /GENE: STK/RE: GA-4 /BF: BPC1
+agagaggaa
+     9     1
+AC: RSP00864//OS: Arabidopsis thaliana /GENE: STK/RE: GA-5 /BF: BPC1
+agagagaga
+     9     1
+AC: RSP00865//OS: Arabidopsis thaliana /GENE: STK/RE: GA-6 /BF: BPC1
+ggagagaga
+     9     1
+AC: RSP00889//OS: Arabidopsis thaliana /GENE: AtAOX1a/RE: GC motif /BF: bZIP proteins
+ccacgca
+     7     1
+AC: RSP00895//OS: Geminiviruses (Nicotiana species); Pepper Huasteco Virus (PHV) /GENE: Intergenic Regions; PHV coat protein (CP)/RE: CLE-core /BF: Unknown nuclear factor
+gtggtccc
+     8     1
+AC: RSP00921//OS: Pseudomonas syringae pv. tomato. /GENE: avrPto/RE: MBSII /BF: Pti4/5/6
+gccgcc
+     6     1
+AC: RSP00952//OS: maize (Zea mays) /GENE: stress tolerance-related genes/RE: DRE 2 /BF: ZmDREB1A
+gccgac
+     6     1
+AC: RSP00964//OS: snapdragon (Antirrhinum majus) /GENE: chs/RE: G-box /BF: GBF
+gtcacgtgcc
+    10     2
+AC: RSP00965//OS: potato, Solanum tuberosum /GENE: patatin/RE: G-box /BF: GBF
+tccacgtgtc
+    10     2
+AC: RSP00986//OS: snapdragon (Antirrhinum majus) /GENE: gPAL2/RE: G-box /BF: GBP
+ccacgtcg
+     8     1
+AC: RSP01006//OS: pine (Pinus sylvestris) /GENE: PsGS1b/RE: GS1b AC box 1 (AC-II) /BF: PtMYB1; PtMYB4
+accaccc
+     7     1
+AC: RSP01034//OS: Arabidopsis thaliana /GENE: RD29B/RE: ABRE 1/2 /BF: ABI3; ABI5; AREB1
+acgtggc
+     7     1
+AC: RSP01035//OS: Arabidopsis thaliana /GENE: RD29B/RE: ABRE 3 /BF: ABI3; ABI5; AREB1
+acgtgtc
+     7     1
+AC: RSP01075//OS: Craterostigma plantagineum (Scrophulariaceae) /GENE: CpC2/RE: ABRE II /BF: CpbZIP1; CpbZIP2 (short);
+cccgcgtggc
+    10     2
+AC: RSP01076//OS: Craterostigma plantagineum (Scrophulariaceae) /GENE: CpC2/RE: ABRE III /BF: CpbZIP1; CpbZIP2 (short);
+catgcgtggc
+    10     2
+AC: RSP01151//OS: maize (Zea mays) /GENE: Em/RE: Em1a /BF: EmBP-1 (+VP1)
+gacacgtggc
+    10     2
+AC: RSP01152//OS: maize (Zea mays) /GENE: Em/RE: Em1b /BF: EmBP-1 (+VP1)
+cacacgtgcc
+    10     2
+AC: RSP01174//OS: maize (Zea mays) /GENE: Sh/RE: Zmhox1a BS 1 /BF: Zmhox1a
+cctctcccgtc
+    11     2
+AC: RSP01190//OS: Tobacco; Nicotiana tabacum /GENE: Adhl/RE: C-box /BF: C factor
+ccacggtcca
+    10     2
+AC: RSP01255//OS: Arabidopsis thaliana /GENE: Synthetic oligonucleotides/RE: GBF1 BS2 /BF: GBF1
+acacgtgg
+     8     1
+AC: RSP01257//OS: Arabidopsis thaliana /GENE: Synthetic oligonucleotides/RE: GBF1 BS4 /BF: GBF1
+tgacgtgg
+     8     1
+AC: RSP01258//OS: Arabidopsis thaliana /GENE: Synthetic oligonucleotides/RE: GBF1 BS5 /BF: GBF1
+tgacgtgt
+     8     1
+AC: RSP01259//OS: Arabidopsis thaliana /GENE: Synthetic oligonucleotides/RE: GBF1 BS6 /BF: GBF1
+ctacgtgg
+     8     1
+AC: RSP01260//OS: Arabidopsis thaliana /GENE: Synthetic oligonucleotides/RE: GBF1 BS7 /BF: GBF1
+ctacgtgt
+     8     1
+AC: RSP01328//OS: tobacco (Nicotiana tabacum) /GENE: ERF3/RE: GCCGCC-ERE /BF: Unknown nuclear factor
+gccgcc
+     6     1
+AC: RSP01344//OS: rice (Oryza sativa) /GENE: Pathogenesis-related genes/RE: GCC box /BF: OsEREBP1
+agccgcc
+     7     1
+AC: RSP01474//OS: rice (Oryza sativa) /GENE: GluA-3/RE: G-box /BF: Unknown transcription factor
+tgacgtgg
+     8     1
+AC: RSP01497//OS: wheat (Triticum aestivum) /GENE: H1 (TH315)/RE: CS5 /BF:unknown transcriptin factor
+gccgtcggat
+    10     2
+AC: RSP01498//OS: wheat (Triticum aestivum) /GENE: H1 (TH325)/RE: CS5 /BF:unknown transcriptin factor
+gccgtcggat
+    10     2
+AC: RSP01499//OS: wheat (Triticum aestivum) /GENE: H1 (TH315)/RE: CS6 /BF:unknown transcriptin factor
+ttccccgtct
+    10     2
+AC: RSP01500//OS: wheat (Triticum aestivum) /GENE: H1 (TH325)/RE: CS6 /BF:unknown transcriptin factor
+ttccccgtct
+    10     2
+AC: RSP01501//OS: wheat (Triticum aestivum) /GENE: H1 (TH315)/RE: GC-box /BF:unknown transcriptin factor
+gggcggg
+     7     1
+AC: RSP01502//OS: wheat (Triticum aestivum) /GENE: H1 (TH325)/RE: GC-box /BF:unknown transcriptin factor
+gggcggg
+     7     1
+AC: RSP01523//OS: potato (Solanum tuberosum) /GENE: Synthetic oligonucleotides/RE: GCC box /BF: StEREBP1
+agccgcc
+     7     1
+AC: RSP01559//OS: Arabidopsis thaliana /GENE: AVP1/RE: AtCAMTA1/AtCAMTA5 BS /BF: AtCAMTA1; AtCAMTA5
+acgcgc
+     6     1
+AC: RSP01570//OS: rice (Oryza sativa, indica) /GENE: Synthetic oligonucleotides/RE: Em1a /BF: OSBZ
+cacgtggc
+     8     1
+AC: RSP01630//OS: wheat (Triticum aestivum) /GENE: Synthetic oligonucleotides/RE: GCC-box /BF: TaERF1
+gagccgccac
+    10     2
+AC: RSP01733//OS: Arabidopsis thaliana /GENE: CBF2/RE: CM2 /BF: CAMTA3
+ccgcgt
+     6     1
+AC: RSP01764//OS: Arabidopsis thaliana /GENE: HLS1 (AT4G37580)/RE: ERE /BF: TINY
+agccgcc
+     7     1
+AC: RSP01775//OS: tobacco (Nicotiana tabacum) /GENE: :/RE: : /BF: 	JERF3
+agccgcc
+     7     1
+AC: RSP01816//OS: tobacco (Nicotiana tabacum) /GENE: PNZIP/RE: G-box /BF: 	NtbZIP
+gccacgtgtc
+    10     2
+AC: RSP01825//OS: Arabidopsis thaliana /GENE: ABI5/RE: CE1-like element /BF: 	ABI4
+gccaccg
+     7     1
+AC: RSP01861//OS: Arabidopsis thaliana /GENE: CRC/RE: ABRE1 /BF: bZIP67 + LEC1/L1L-[NF-YC2]
+tacgtggc
+     8     1
+AC: RSP01864//OS: Arabidopsis thaliana /GENE: SUS2/RE: ABRE2 /BF: bZIP67 + LEC1/L1L-[NF-YC2]
+aacgtggc
+     8     1
+AC: RSP01927//OS: maize,  Zea mays /GENE: rbcSZm1/RE: GC-rich element 1 /BF: unknown nuclear factor
+cgcgcgtgcg
+    10     2
+AC: RSP01930//OS: maize,  Zea mays /GENE: rbcSZm1/RE: 7B element /BF: unknown nuclear factor
+ggccact
+     7     1
+//

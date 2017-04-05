@@ -1,0 +1,243 @@
+List of    80 RE motifs in [101:200], (+/- chains) of "Pos" SEQs |Similarity: >= 80%; Found in >=  5.00% of "Pos" SEQs and <= 30.00% of "Neg" SEQs; Ratio of "Pos" and "Neg" FREQs:   1.50
+   80
+AC: RSP00021//OS: Catharantus roseus /GENE: TDC/RE: GT-1#Box7 /BF: GT-1
+aaaaagtaaaaa
+    12     2
+AC: RSP00022//OS: pea, Pisum sativum /GENE: petE/RE: A/T-rich BOX1 /BF: PCF1
+ataataaaa
+     9     1
+AC: RSP00024//OS: pea, Pisum sativum /GENE: petE/RE: A/T-rich BOX3 /BF: PCF1
+tattattt
+     8     1
+AC: RSP00038//OS: tomato (Lycopersicon esculentum), Lycopersicon esculentum /GENE: LAT52; LAT56;/RE: 52/56 box /BF: GT-1 related transcription factors
+tgtggttatata
+    12     2
+AC: RSP00043//OS: rice (Oryza sativa) (Oryza sativa) /GENE: rab16A-D/RE: Motif I core /BF: TAF-1,transacting factor
+tacgtggc
+     8     1
+AC: RSP00049//OS: barley (Hordeum vulgare) /GENE: HVA22/RE: G-box /BF: unknown nuclear factor
+cgcacgtgtc
+    10     2
+AC: RSP00057//OS: maize (Zea mays) /GENE: rab28/RE: ABRE B /BF: ABF
+tccacgtctc
+    10     2
+AC: RSP00063//OS: rice (Oryza sativa), Oryza sativa /GENE: rab16B/RE: Motif III /BF: unknown nuclear factor
+gccgcgtggc
+    10     2
+AC: RSP00070//OS: rice (Oryza sativa) /GENE: Osem/RE: ABRE motif A /BF: TRAB1
+tacgtgtc
+     8     1
+AC: RSP00079//OS: bean, Phaseolus vulgaris /GENE: PAL2/RE: AC-I /BF: unknown nuclear factor
+cccacctacc
+    10     2
+AC: RSP00110//OS: Phaseolus vulgaris /GENE: beta-phaseolin, or phas/RE: ACGT motif /BF: unknown nuclear factor
+cacacgtc
+     8     1
+AC: RSP00125//OS: tobacco,Nicotiana plumbaginifolia /GENE: cab-E/RE: AT-1 (3) /BF: unknown nuclear factor
+aatatttttatt
+    12     2
+AC: RSP00133//OS: tomato (Lycopersicon esculentum), Lycopersicon esculentum /GENE: rbcS-3A/RE: AT-1 (2) /BF: unknown nuclear factor
+aatatttttatt
+    12     2
+AC: RSP00146//OS: Phaseolus vulgaris /GENE: beta-phaseolin, or phas/RE: TATA1 /BF: unknown nuclear factor
+ttatata
+     7     1
+AC: RSP00153//OS: Parsley, Petroselinum crispum /GENE: CHS/RE: Box II /BF: CPRF-1; CPRF-2; CPRF-3;
+ccacgtggcc
+    10     2
+AC: RSP00154//OS: parsley (Petroselinum crispum) /GENE: CHS/RE: ACE (CHS) /BF: bZIP factors CPRF1, CPRF4
+ccacgtggcc
+    10     2
+AC: RSP00157//OS: soybean (Glycine max) /GENE: GmAux28/RE: D2 /BF: unknown nuclear factor
+atttatataaat
+    12     2
+AC: RSP00175//OS: Arabidopsis thaliana /GENE: synthetic oligonucleotides/RE: ABRE /BF: ABFs
+cacgtggc
+     8     1
+AC: RSP00183//OS: tobacco (Nicotiana tabacum) /GENE: OLIGO-GUS/RE: G-box 10 /BF: G-box binding bZIP proteins
+gccacgtgcc
+    10     2
+AC: RSP00204//OS: Arabidopsis thaliana /GENE: AtEm6/RE: ABRE/6.2 /BF: ABI5
+gacacgtggc
+    10     2
+AC: RSP00279//OS: Arabidopsis thaliana /GENE: A-p40/RE: inverted telo box /BF: unknown factor
+ttagggttt
+     9     1
+AC: RSP00340//OS: soybean (Glycine max) /GENE: GmAux28/RE: B1-core /BF: SGBF-1; SGBF-2;
+tccacgtgtc
+    10     2
+AC: RSP00369//OS: Arabidopsis thaliana /GENE: eEF1AA1/RE: telo-box /BF: unknown nuclear factor
+aaaccctaa
+     9     1
+AC: RSP00397//OS: tobacco (Nicotiana tabacum) /GENE: RNP2/RE: CDE /BF: unknown nuclear factor
+agtggcgg
+     8     1
+AC: RSP00420//OS: Eucalyptus gunnii /GENE: CCR/RE: ACI /BF: unknown nuclear factor
+cccacctacc
+    10     2
+AC: RSP00448//OS: pea, Pisum sativum /GENE: rp L9/RE: TTAGGGTTTT-box /BF: unknown nuclear factor
+ttagggttt
+     9     1
+AC: RSP00509//OS: oat (Avena fatua) /GENE: alpha-Amy2/A/RE: TATA box /BF: unknown nuclear factor
+tataaataccag
+    12     2
+AC: RSP00523//OS: carrot (Daucus carota) /GENE: Dc3/RE: E3-core /BF: DPBF-1; DPBF-2;
+acacgcg
+     7     1
+AC: RSP00524//OS: carrot (Daucus carota) /GENE: Dc3/RE: E4-core /BF: DPBF-1; DPBF-2;
+acacgtg
+     7     1
+AC: RSP00566//OS: tomato (Lycopersicon esculentum), Lycopersicon esculentum /GENE: rbcS3B/RE: TATA P /BF: unknown nuclear factor
+ccttgtatat
+    10     2
+AC: RSP00621//OS: tomato (Lycopersicon esculentum), Lycopersicon esculentum /GENE: rbcS2/RE: C-rich Q /BF: unknown nuclear factor
+cccctcctc
+     9     1
+AC: RSP00640//OS: maize (Zea mays) /GENE: GRF1/RE: G-box /BF: GBF
+tcacgtgg
+     8     1
+AC: RSP00641//OS: maize (Zea mays) /GENE: GRF2/RE: G-box /BF: GBF
+tcacgtgg
+     8     1
+AC: RSP00653//OS: spinach (Spinacia oleracea) /GENE: petH/RE: CT-LB /BF: unknown nuclear factor
+ttctctctcct
+    11     2
+AC: RSP00681//OS: pea (Pisum sativum) /GENE: PSPAL2/RE: Box 4 /BF: epicotyl-specific nuclear factor
+taattaatc
+     9     1
+AC: RSP00707//OS: tobacco (Nicotiana tabacum) /GENE: OLIGO-GUS/RE: G-box 2 /BF: G-box binding bZIP proteins
+tacacgtgta
+    10     2
+AC: RSP00709//OS: pea (Pisum sativum) /GENE: TOP2/RE: I-box /BF: unknown transcription factor
+taattattt
+     9     1
+AC: RSP00723//OS: tobacco (Nicotiana plumbaginifolia) /GENE: rbcS 8B/RE: G-box /BF: HY5
+cacgtggc
+     8     1
+AC: RSP00740//OS: tobacco (Nicotiana tabacum) /GENE: OLIGO-GUS/RE: G-box 11 /BF: G-box binding bZIP proteins
+gccacgtgag
+    10     2
+AC: RSP00783//OS: tobacco (Nicotiana tabacum) /GENE: OLIGO-GUS/RE: G-box 7 /BF: G-box binding bZIP proteins
+tacacgtggc
+    10     2
+AC: RSP00788//OS: rice (Oryza sativa) /GENE: osRACD/RE: AT1 box /BF: unknown transcription factor
+aatatttttatt
+    12     2
+AC: RSP00790//OS: Flaveria trinervia /GENE: ppcA1/RE: A segment /BF: unknown transcription factor
+gtgaatttatg
+    11     2
+AC: RSP00858//OS: pea, Pisum sativum /GENE: pra2/RE: GT2 /BF: DF1
+ggtaatta
+     8     1
+AC: RSP00863//OS: Arabidopsis thaliana /GENE: STK/RE: GA-4 /BF: BPC1
+agagaggaa
+     9     1
+AC: RSP00864//OS: Arabidopsis thaliana /GENE: STK/RE: GA-5 /BF: BPC1
+agagagaga
+     9     1
+AC: RSP00865//OS: Arabidopsis thaliana /GENE: STK/RE: GA-6 /BF: BPC1
+ggagagaga
+     9     1
+AC: RSP00889//OS: Arabidopsis thaliana /GENE: AtAOX1a/RE: GC motif /BF: bZIP proteins
+ccacgca
+     7     1
+AC: RSP00891//OS: Solanum melongena /GENE: SmCP/RE: EE 1 /BF: Dof factors
+aaaatatat
+     9     1
+AC: RSP00933//OS: pine (Pinus sylvestris) /GENE: GS1a/RE: AT-2a /BF: nuclear proteins from cotyledons;
+tttataatttttt
+    13     2
+AC: RSP00958//OS: barley (Hordeum vulgare) /GENE: Hor2/RE: PB2 /BF: BPBF
+tttaaag
+     7     1
+AC: RSP00965//OS: potato, Solanum tuberosum /GENE: patatin/RE: G-box /BF: GBF
+tccacgtgtc
+    10     2
+AC: RSP00974//OS: soybean (Glycine max) /GENE: vspB/RE: G-box /BF: unknown nuclear factor
+tacacgtgca
+    10     2
+AC: RSP00981//OS: potato, Solanum tuberosum /GENE: PI-II/RE: G-box /BF: unknown nuclear factor
+tacacgtgca
+    10     2
+AC: RSP01074//OS: Arachis hypogea; bean (Phaseolus vulgaris); /GENE: Em/RE: Sph /BF: PvAlf
+gcatgcatgc
+    10     2
+AC: RSP01075//OS: Craterostigma plantagineum (Scrophulariaceae) /GENE: CpC2/RE: ABRE II /BF: CpbZIP1; CpbZIP2 (short);
+cccgcgtggc
+    10     2
+AC: RSP01076//OS: Craterostigma plantagineum (Scrophulariaceae) /GENE: CpC2/RE: ABRE III /BF: CpbZIP1; CpbZIP2 (short);
+catgcgtggc
+    10     2
+AC: RSP01151//OS: maize (Zea mays) /GENE: Em/RE: Em1a /BF: EmBP-1 (+VP1)
+gacacgtggc
+    10     2
+AC: RSP01152//OS: maize (Zea mays) /GENE: Em/RE: Em1b /BF: EmBP-1 (+VP1)
+cacacgtgcc
+    10     2
+AC: RSP01167//OS: maize (Zea mays) /GENE: pMS1/RE: TATA box /BF: HMG proteins
+taaatatct
+     9     1
+AC: RSP01237//OS: bean (Phaseolus vulgaris) /GENE: BAC/RE: -23 Z-BAC+ /BF: unknown nuclear factor
+ctctatatat
+    10     2
+AC: RSP01255//OS: Arabidopsis thaliana /GENE: Synthetic oligonucleotides/RE: GBF1 BS2 /BF: GBF1
+acacgtgg
+     8     1
+AC: RSP01260//OS: Arabidopsis thaliana /GENE: Synthetic oligonucleotides/RE: GBF1 BS7 /BF: GBF1
+ctacgtgt
+     8     1
+AC: RSP01276//OS: parsley (Petroselinum crispum) /GENE: CHS/RE: Box III /BF: 2 unknown noncooperative nuclear factors
+gtacgtgg
+     8     1
+AC: RSP01288//OS: Arabidopsis thaliana /GENE: cab1/RE: Z-DNA-motif /BF: unknown nuclear factor
+atacgtgt
+     8     1
+AC: RSP01296//OS: oat (Avena fatua) /GENE: Amy2/D/RE: TATA box /BF: TBF
+ctataaata
+     9     1
+AC: RSP01301//OS: wheat (Triticum aestivum) /GENE: Amy2/54/RE: TATA box /BF: TBF
+ctataaatac
+    10     2
+AC: RSP01302//OS: wheat (Triticum aestivum) /GENE: Amy2/54/RE: Inr element /BF:
+ctataaatac
+    10     2
+AC: RSP01463//OS: soybean (Glycine max) /GENE: BiP6/RE: AT-rich ELS /BF: Unknown transcription factor
+atttatatattta
+    13     2
+AC: RSP01480//OS: soybean (Glycine max) /GENE: GS15/RE: AT-cm /BF: AT-1SNBP
+tattttat
+     8     1
+AC: RSP01501//OS: wheat (Triticum aestivum) /GENE: H1 (TH315)/RE: GC-box /BF:unknown transcriptin factor
+gggcggg
+     7     1
+AC: RSP01502//OS: wheat (Triticum aestivum) /GENE: H1 (TH325)/RE: GC-box /BF:unknown transcriptin factor
+gggcggg
+     7     1
+AC: RSP01559//OS: Arabidopsis thaliana /GENE: AVP1/RE: AtCAMTA1/AtCAMTA5 BS /BF: AtCAMTA1; AtCAMTA5
+acgcgc
+     6     1
+AC: RSP01570//OS: rice (Oryza sativa, indica) /GENE: Synthetic oligonucleotides/RE: Em1a /BF: OSBZ
+cacgtggc
+     8     1
+AC: RSP01712//OS: tomato (Solanum lycopersicum) /GENE: LeACS2/RE: RIN BS /BF: RIN
+ctaaaaaaag
+    10     2
+AC: RSP01816//OS: tobacco (Nicotiana tabacum) /GENE: PNZIP/RE: G-box /BF: 	NtbZIP
+gccacgtgtc
+    10     2
+AC: RSP01835//OS: Arabidopsis thaliana /GENE: Cytc-1/RE: telo box /BF: 	AtPuralpha
+aaacccta
+     8     1
+AC: RSP01861//OS: Arabidopsis thaliana /GENE: CRC/RE: ABRE1 /BF: bZIP67 + LEC1/L1L-[NF-YC2]
+tacgtggc
+     8     1
+AC: RSP01879//OS: tomato (Lycopersicon esculentum) /GENE: LeACO1/RE: LeHB-1 BS 1 /BF: LeHB-1
+aataaatatt
+    10     2
+AC: RSP01880//OS: tomato (Lycopersicon esculentum) /GENE: LeACO1/RE: LeHB-1 BS 2 /BF: LeHB-1
+aataatatt
+     9     1
+AC: RSP01927//OS: maize,  Zea mays /GENE: rbcSZm1/RE: GC-rich element 1 /BF: unknown nuclear factor
+cgcgcgtgcg
+    10     2
+//

@@ -1,0 +1,153 @@
+Program  TSSPlant
+-----------------
+
+ACTION: Search for plant RNA Polymerase II TATA and TATA-less 
+        promoters with defined Transcription Start Site (TSS)
+	in a single or multiple Query DNA sequences.
+	Length of Query sequence:  up to 100000 nt.    
+ 		  
+Note: to run TSSPlant program, you need to install gfortran on your Mac or Linux computer.
+You can download it from the following link:
+https://gcc.gnu.org/wiki/GFortranBinaries#MacOS		  
+
+AUTHORS:	I.A.Shahmuradov, R.Umarov and  V.V.Solovyev
+                KAUST (KSA); Institute of Botany, ANAS (Azerbaijan); Softberry Inc. (USA)
+DATE:           May 13, 2015 
+VERSION:        01.2015 
+ACCESS:         http://softberry.com
+                http://molquest.kaust.edu.sa
+___________________________________________________________________
+
+How run TSSPlant program: 
+
+
+
+      TSSPlant  -i:<parI> [-o:<parO>] [-p:<parP>] [-t:<parT>] [-b:<parB>] 
+
+For example,
+
+     ./TSSPlant -i:query.seq -o:query.res -p:y -t:n -b:300  
+	
+
+Options/Arguments:	
+ 
+    <parI>  Input File  with Query DNA sequence(s) in FASTA format 
+            (max. length: 100 000 nt). If this option/argument is 
+	    absent or number of arguments is more than 6 or no any 
+	    argument is given, Program display HELP information 
+	    and ends. 
+            In Query sequences symbols besides of "a/A", "g/G", "c/C" 
+	    and "t/T" are accepted as "n".  
+	    
+    <parB>  Left/Right boundaries of an interval applied for selection
+            of a single TSS (for more information see below: <parT>). 
+	    Lminimum = 100 
+	    Default: 300
+
+    <parO>  Output File  
+            Default: TSSPlant.res 	       
+  
+    
+    <parP>  Print (y) or not (n) Query sequence 
+            Default: n
+    
+    <parT>  After identification of all TSSs for TATA and TATA-less promoters
+            with score higher the threshold determined during Learning procedure, 
+	    for every interval (+B <= TSS <= -B), 2 TSSs (for TATA and TATA-less 
+	    promoters) with highest score are selected. 
+	    Parameter 'B' is given by "-b:" option.
+	    If parT='y', If available, TSS with the highest score for TATA promoter
+	                 is selected as a predicted TSS; if TSS for TATA promoter 
+			 is not found, then TSS with the highest score for TATA-less
+			 promoter is selected as a predicted TSS. 
+	       parT='n', regardless the promoter class, TSS closer to the annotated 
+	                 gene start (given by "-b:" option)is selected as predicted TSS.  
+	    Default: 'n'   
+
+________________________________
+
+TSSPlant output:
+
+Every Output File begins with description of the Program's allocation and purpose,  
+      Input File name and Search Parameters (Lines 1 - 9).  
+      Then, the following information is reported: 
+          (1) Name and Length of Query sequence; 
+	  (2) Annotated Gene/mRNA/RNA/CDS Start position; 
+          (3) Nucleotide sequence of Query, if <parP>="y";
+	  (4) Total number, position(s) and score(s) of the predicted TSS(s), 
+              as well as position(s) and score(s) of TATA boxes 
+	      (in case of TATA promoters).  
+
+
+An example outpul file for command:  
+
+         TSSPlant -i:TSSPlant_example.seq -o:TSSPlant_example.res -p:y -t:y -b:400  
+
+
+Program TSSPlant
+Search for RNA II promoters (TSSs)
+Input file with query sequence(s): TSSPlant_example.seq
+Thresholds, for TATA      promoters:  -1.83
+                TATA-less promoters:  -1.78
+If in interval -/+  400 nt around putative TSS  both TATA and TATA-less promoters 
+   are predicted, promoter (TSS) closer to Gene start is taken
+
+
+Query: > PLPR0383 ..AC:X96999.1 ..OS:Phaseolus vulgaris ..GENE:Ypr10 ..PROD:intracellular pathogenesis related protein ..[ -200: +51]  ..CDS:  +69 ..TSS:201 (+1) # Alternative TSS(s): +8 +10 |Taxon: Dicot |Promoter: TATA| -2000:-1000, 2001: TSS
+Length of Query sequence:   1100
+
+acacaaatttgaacgttgtcctctcgcaatccacaaccctacctttcaaacgcacaaatc
+aatggaagaataaacccttttttcgaacgcactccctccccctttcagaaaccctttttt
+ccaacgcactccctctccctttcaaaaacccttttttcgaacgcaacacaccttccaaat
+ggtttattttggtttctttttcaactcagcaagtggacccacacactctttctttaatat
+taaaaatcactacattctcgaatctggttatggaaacccccaatgtccaattggtccaac
+atgtggaaggcgtctacaaagcattcttcatggcggccacttcatccactgcctaatcaa
+taattttcattttagacttttcttccatccattaaatccaaaatatagaaattttaacta
+aaaaatttcatccattttttagtttttataaaatattttctttaccattctattttttct
+ggattttttttattattatttagtttatgttacaaactattcacttttatatatcataaa
+tattcgtttcatttttataagaatataaattaactaaatatgacattcttacaagtaaaa
+aatataaaatgatatattcccgcaaatacagcaaacagtcgccatagttgaaatttaggt
+gtatatacaatttgtcttctttgaatttgaaagctcccaaatcgcaatacctcacaaaca
+cataaactaacaataaaaaaaataaaaaataaataaaaaaaaatatatatatatatatat
+ataatggaaaataaaaaagaatgatacatatgctcacgttttaataagatttgtttattt
+ggataaagagaatgttcttgttcttggtaaacagatgatggctccgacaaccttgtttca
+gtgtgtcagcagcttcacactatggtattcatagaaacaatagcacaatcacaccaaagt
+ttgtggttataaatagaaggcagtcctctggcaaatacccacacagcaaacatcttctcc
+ttctcttctgatattatatattcttccatttcattagattccattcatcatggctgtttt
+caccttcgaagaccaaacca
+
+     3 promoter(s) predicted:
+(TATA-) TSS position:   1003   TSS score =  -1.5183
+(TATA-) TSS position:    602   TSS score =  -1.7055
+(TATA-) TSS position:    201   TSS score =   0.4393
+
+
+Query: > PLPR0575 ..AC:S80135 ..OS:Arabidopsis thaliana ..GENE:HMG1 ..PROD:enzyme 3-hidroxy-3-methylglutaryl-CoA reductase ..[ -200: +51]  ..CDS:  +42 |Taxon: Dicot |Promoter: TATA-less| -2000:-1000, 2001: TSS
+Length of Query sequence:   1100
+
+attacttgtaaacaggacattatctttataaagaaaatgatatacatgctgcattttttt
+ggtttggtagttttacatgctgcattttgtacttgcaaccacttctatactaattgtttt
+agataagatagtaccttcttgtttgatcacatcgtaaaaggatcggatatgttaaccgtc
+tttttccaaacgttatatactcttcaacactcatcataatgtatggagatgtatcaagta
+tctcttacgaccattggtctttgcggcctaatttgcaacagaaagtcagaaatatccata
+ctataactatgctatttgaaaattattcattttgactcatatataaagtagagttaatta
+ggtgtatagccaaattatggatgaaaattagacaaatgatcatgacattcttttttctta
+atttcccaaaagaattgtaatatcagaagggaaaaatacattccacacatagttagaact
+tagaagaggtccaatcaataggcggtaaaaattaatttgtaacggtaaacaaaaacgata
+aaggataatagtacaaactaattggcaattaatactgtttttggtcaaatatatatgtca
+cgacagtagatgaaaataccgtttttggttgaatcgttttattttttactttgtcttgaa
+tcttgtctactcttcaataccgtttttcgttgaatcattcaaaaaaaaacagatctccta
+gtgatatgaatcaaagtttatcaataaaaatcttagtatacatttgcaaaccataacttc
+ataattttgaataaacgataatgtaagacaggttggctcattagaaagcatatcaaatta
+attgtaaggacacaaatatctataattaatgcaggcttttatgaatcaatcatcatcatt
+cacatcctcgtataattgtctaatttcgtacctcaaaaaaaaaacaacaacgtgaaaacc
+taaaattagatgagttacgaaaattaggcaaaaataaataaactaaatcatagtattaca
+aaacaaaatgaaaacgaaaaaatgaagaaaaagcaagctggtccccaacagacatgcgag
+ttcgtctcctataaaacttt
+
+     2 promoter(s) predicted:
+TSS position:   1026   TSS score =   1.8519     TATA-box position:    994   TATA-box score =   5.9735
+TSS position:    625   TSS score =   1.8191     TATA-box position:    591   TATA-box score =   6.5099
+
+...................................................... 
+...................................................... 

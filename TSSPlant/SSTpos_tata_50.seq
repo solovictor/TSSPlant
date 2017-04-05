@@ -1,0 +1,300 @@
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:+ |TSS peak:     3631 |Gene/Sequence: AT1G01010  |     3631..     5899   CDS:     3760 |-2000:+1000, +1 is peak TSS mapped | 2 TSSs | TSS = GeneStart |TATA
+ataaatcttaatagttaatactactcggtttactacatgaaatttcataccatcaattgt
+tttaataatctttaaaattgttaggaccggtaaaaccataccaattaaaccggagatcca
+tattaatttaattaagaaaataaaaataaaaggAATAAATTgtcttatttaaacgctgac
+ttcactgtcttcctccctccaaattattagatataccaaaccagagaaaacaaatacata
+atcggagaaat
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:+ |TSS peak:  1775642 |Gene/Sequence: AT1G05880  |  1775642..  1778552   CDS:  1775654 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+ttgtctttggtaaactcttgtttaaggggaagtagaacaagtgtttgaacttattgaaaa
+gacatcggaagatggaaggtaaaagctgagaaacttaaagattgcttgtcacaaaagtaa
+gagaattgtacacccttgtcaacgacttggtcttcttcaattgaattcTATAAAAGgaga
+aaacgtcctctcttctcacattgtatttttgtatggataataattctgtaatcggatcgg
+aggtggatgcg
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:+ |TSS peak:  2305375 |Gene/Sequence: AT1G07510  |  2305375..  2309539   CDS:  2305686 |-2000:+1000, +1 is peak TSS mapped | 2 TSSs | TSS = GeneStart |TATA
+acgtgctaaagcgtagttatattcaggtgggaatagttgccacacataccccactcgagt
+caaatgctcgtttataatgtggcttagttaaaacgaagcccattaagctaaacaagggcc
+cgaatttactggagctaaggccattaaccacgttaaagatttgcgaAATAAATAaccggt
+tggtttttagttgaaagactaaaccggttgaaataatccacggaacaacaacatatgttg
+gagtctggaac
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:+ |TSS peak:  2706927 |Gene/Sequence: AT1G08550  |  2706927..  2709534   CDS:  2707465 |-2000:+1000, +1 is peak TSS mapped | 3 TSSs | TSS = GeneStart |TATA
+ttgtgcatagaacccacccacctgagcataacaagcagtaaattattactttttagcatt
+tacgattcttgtgacaactactaaatcgaaaaaattattttaaaactaaaaagaaattgt
+tgtctgaaaaacataagtgatatacaacaataAATAAATAtctcttataagaatttggga
+aaaaaaaaatccaaagattagagatatttgggtggagaaaacaaccgcctaggacaaaaa
+aaaattgtggg
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:+ |TSS peak:  2984883 |Gene/Sequence: AT1G09240  |  2984883..  2986132   CDS:  2984952 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+taaataaatcttttacttcaaaacctaaatataaggatctattcttaattagttaaacaa
+aaaaagaaacaaaaacgcaagtgtacgttatatagtatatttgaataatgaaatgttaaa
+ataattagattctttttctagttgatgtagatccccaaccccacgccAATAAATAtccat
+ccctccagtccaaacagttcacaccacccgagaacacacgattattctccaaagagaaag
+agaaaaatcaa
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:+ |TSS peak:  3892580 |Gene/Sequence: AT1G11590  |  3892580..  3894677   CDS:  3892634 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+cttttctgttctttgtggataataaaaccaaacttcactgaattatagcttcaattcaca
+ttgtactgaatttttagattgatctcaaaataaagttttttttctaaatattatctttta
+tcgaatacaattaattaaagggtaaattgattaagttgctttgctttgTATATAAGacca
+ccatcgctccatcctctttcatcagttaagataatatatattcagtaattaagagagaag
+aaataaacaca
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:+ |TSS peak:  5090985 |Gene/Sequence: AT1G14780  |  5090985..  5094147   CDS:  5091015 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+gtaaacgatgctgttattcgtcgttttcatacttttggaataatccgataatcacagcat
+cacgttctttctcttcctctgttcaagattaatttatataataagttttttgattaatca
+tcattacaagcaatcaaccattaattatttatttctatattagtagTATATATAcaaatg
+ccttttctcctacaaaagactcgctgcttttactacaagaggaaacagagatgagcagag
+acggcggagat
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:+ |TSS peak:  5243445 |Gene/Sequence: AT1G15240  |  5243445..  5246666   CDS:  5243794 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+tggataattaaatcctttttccgaggaaaaggcggtgataagggtattccagtcattata
+cttcattgttggatctaaattacaaaatagcccagtgttttagtgagcccaaggttcgac
+acctagcgagatcatatggacttgattgattgcccagtgttttgttAATAAAAAtaaacc
+attaatgaaatgctaacaacaacgaagagagagaattaaaagatcctcctaccgtattcc
+cgggaacattc
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:+ |TSS peak:  6299680 |Gene/Sequence: AT1G18300  |  6299680..  6301079   CDS:  6299834 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+tcaaaatacagagaaaggagttacatttcagattccaaaccgaacaaaaccgagaactca
+attacaataaccgggaaagttgagtcaataaatatgtatactttcgatttagcaagttga
+ttagataaaaaaaaaaaaaaaatagttgaagcgcgtgggaagttccaTATAAAAAtagtc
+ctaaaaccaataacgctcttaacaaattcacatctccctctctcttatccatttcctctc
+tagacttcctt
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:+ |TSS peak:  6450586 |Gene/Sequence: AT1G18710  |  6450586..  6453106   CDS:  6450773 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+tcttcttttacctctttacacataaattttggcaagatttgggtatttggtatggtaata
+gactaatagtagaaatttgtgctcgataaaactttcgatatctaacggcaggaattcgaa
+gtaaaatccaacggcggaaatataataataccaaaacaggggggggcTATATAATtgtat
+aaccctaattagaataacgcatcccactactcattctctcgagagcatcctacagagtaa
+aacgtgtagag
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:+ |TSS peak:  6986352 |Gene/Sequence: AT1G20140  |  6986352..  6987261   CDS:  6986421 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+caacataaattttccattttttaaaaacttaaatttccaatatttgttttactttttact
+gttctcctattagtaaaaggagtagattaacttaaaagcaataagccggcaaaaaaaaaa
+aaacttaaaagcaataaaccgacttgaataccaattaagaaattggcTATAAATAaggct
+ccaacttcccaaaccttgacaccatcacaacaatcaatcgcagcgccgattctccttcaa
+aaacttttcct
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:+ |TSS peak:  8055315 |Gene/Sequence: AT1G22760  |  8055315..  8059004   CDS:  8055588 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+catgtaataaaaaaagaaataaaggcaaacataatttaaaactgcgaccaattcttatta
+tcaaagattcatgaaatattcaattagctattaatagtaaaatcaagtgacattttattt
+atactaaattgttaattgctcggttttataggcttagctagttatgTATAAATAtgcatc
+cacactcatcacactaattcaattttatccctctttactcttcttgataatcggaggaaa
+ctaaaaaagga
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:+ |TSS peak:  8503242 |Gene/Sequence: AT1G24030  |  8503242..  8505449   CDS:  8503383 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+aagatggctctcaatttcttttgcttcacgtacatgtaatctacgtattcttcagctcta
+ccgtctctttctctctctcttgaactttcggtagttgaaatactgctgttgagtatttca
+gaaacctaaccctcaaaatcaattaactttattgcactcTATATTTAtcatcttcaacca
+caacaatcttctgtttctttggaagcaactaactacaaagaacatcttcacgactagaaa
+gacacataccc
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:+ |TSS peak:  8976525 |Gene/Sequence: AT1G25550  |  8976525..  8978080   CDS:  8976631 |-2000:+1000, +1 is peak TSS mapped | 2 TSSs | TSS = GeneStart |TATA
+tatccccgaatattctccctgtatcaaacaaacctcagcctattcctatatttaccattc
+taccctttcccaagtaaaatccgaataaatctaaacatcaagaagattcggttttaggta
+cgcgacggcccgacctcgattagacaccaatcctctttctctgcccTTTAAAACttccaa
+cttaaaaacgtcaaagttttatcctttctctctcattttagatccaaaactcttctctgt
+ctctctcaaga
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:+ |TSS peak:  9280942 |Gene/Sequence: AT1G26797  |  9280942..  9281547   CDS:  9280973 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+tatataatctacagattttcacttctttttgtttaattgacaaatttacatccttttaaa
+tatgactggatatggtatattaaatgtttttgtcaaggaaataacaaagaaggtaatagt
+tgacaaaaaaaattaattcataaataccacttcacagaaaatcaaagTATATATAttaca
+aacgagcaaaatacatccatggcttcctcaacaaatcaccaattcatttccatgctaatc
+acagttctagt
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:+ |TSS peak:  9779125 |Gene/Sequence: AT1G28060  |  9779125..  9782687   CDS:  9779154 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+ggaagcttgtagtccggtgattggattatatatcttccggatccggtatcgtttcgctcc
+ctttaggatttttccggaaggaacaaaaatctgattcagaacttggtttcgctggtcgtt
+ttggttctaatctgaatcgctggtttattccggttgtgaattttcgTATATTTAtaggac
+cggcgaatcagaagcaaattgttgttaggaataaaccctaaattctgccatggataagga
+gagatattcca
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:+ |TSS peak: 10319730 |Gene/Sequence: AT1G29490  | 10319730.. 10320388   CDS: 10319821 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+atcacgccttttccacagaagtttcaatccacaagttgatgagcagcatggttggttagt
+ggttactaactttggaaccctttttaatcacatacaacaaagacaaaagcatgtgttatg
+tctggtttaggtgctccaattttatctaacttaaaatagtttttcctTATATATAatgca
+acaagcctattggattcttcatcaaccataacttgcattcaaagagttatacaagacaac
+ttacaagcctc
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:+ |TSS peak: 11356083 |Gene/Sequence: AT1G31720  | 11356083.. 11357062   CDS: 11356150 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+attatgcaacaatttttctattttcttccaaattaatatggtgttaaatgatatggttat
+aatcacaaatagagaaaaagaaaaacaaatacttgattaacacaaaagcaaagtatagaa
+cccaacaacccaaccataagaacaaggaacaaatccactctttacaaaCATATATAcgta
+agcaaacacaaatagttattctctgtaatcgtggagtaggtctcaagcaatctcgtcttc
+cctctaaaggg
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:+ |TSS peak: 11774464 |Gene/Sequence: AT1G32560  | 11774464.. 11775259   CDS: 11774508 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+accaaaatccggtagaggcggtgcgtggatatcagattaggccagcgaagcatctctacg
+tggcaactagatagaaagctgggaattgaaacaagacacgtggcgacattaataacacgt
+ggaattaatgtgacccatttggaccgacgaagccatgcatacatttccttaTTTAAATCg
+aataagaatcattcaagagtaattagttagagtttagagaaacagaaaactaaagaaaaa
+aaatatgcaat
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:+ |TSS peak: 18286708 |Gene/Sequence: AT1G49400  | 18286708.. 18287870   CDS: 18286824 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+gatggtttacggggttgaatataagtttgtgaaggtcttataagcgagggctaaaaaaat
+aaaagaaaataaaaaaataaaaaaataagcgagcgcgttaagtaacaattagttaagttg
+ggctttgtgtgagattcttaaaaagcccatcttTACAAAACatgaaaccctagaacgaaa
+catttcactcttcttctcttccaccatctcagattccccggcgaagattttgttcacagt
+ttccggtgatc
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:+ |TSS peak: 20715180 |Gene/Sequence: AT1G55475  | 20715180.. 20716976   CDS: 20715643 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+gttctcataataaatgtaggagactgcaaacaacaaaaacagtggcaactaattaattgg
+gcaggactaggaggcaaatccacaagtctttaaaaagcaattcctttaggtaggcactga
+aaaagcaaacctttttttttttcttctttccggttggtccactgtTATATAAAgcttggt
+tggttcttgacttggttgtcaaaatcctaaatcccaaataaacaaacagagaaaaaaggg
+agaaatattta
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:+ |TSS peak: 22833682 |Gene/Sequence: AT1G61810  | 22833682.. 22836627   CDS: 22833700 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+cttttatcgtgtaaagaaactcttgggctccactcttgacgttgctcattttatctactt
+ttgttggtttcttagtgacctttgacgtttatttacatagagttgacagatttgaattga
+cgttttctcaataatgcagaccaaaattttcacgtttcttacatgtacaTATATATAgta
+aaacaaatctctgaagacacacaagagaatcaagaacaatgaaaaatttaaccagtttcg
+taattgttatc
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:+ |TSS peak: 23163488 |Gene/Sequence: AT1G62560  | 23163488.. 23166314   CDS: 23163577 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+atcataagaataagaacacaaaaagaaatgaaaaaggacctattattaaataaataaact
+ttgacaaaagcaatgcccggagcttaaaaggtcacataaaaattgaaaaatttctaatca
+cttacacgtcgttcaccgaacacgtggattggaatgagtAATAAAATtccataaccatta
+gatgaaatgtaacatctgtaatcttgccattaaaatatagtatttatatttggcctgaag
+ctgatgcaact
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:+ |TSS peak: 23335341 |Gene/Sequence: AT1G62980  | 23335341.. 23336773   CDS: 23335393 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+taactaataaaataattagaatgcgaagggaggcacagaccaaaacaaacatgaacgcac
+gtccattacttacttgttcatactcttctttcatagtgtttctcacgttgaaaccaattt
+tttcgcctttcatttcagggaaatttttttaagccattgtattcatTATATATAtgagat
+cttatgcattagtaagacttggctttacagagagataataagagtaggcgccctcaagaa
+aacagagtaaa
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:+ |TSS peak: 24928476 |Gene/Sequence: AT1G66800  | 24928476.. 24930028   CDS: 24928517 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+catataaaagattacacacagtccacaactatgtccaagttgagagtattatactgaagt
+acaacaattccacgttgaaaaagtgttaatcaccattaattttcgttagccagccaacat
+aattttttaaacaccgttaccatttatttttttaccatttaaatttttgTATAAAACtga
+gggtatagtcgttgctcaatatcattacttaagccaacctaccaataataataaaagaga
+aatgaacggcg
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:+ |TSS peak: 27521577 |Gene/Sequence: AT1G73180  | 27521577.. 27525290   CDS: 27521996 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+acaactcaaagccgactctttataaacagatatgattctctaaggaaaaaaacctaattt
+gaatcgaattagcaagagattcacctggtagaaacaatgcagccgtactccacacagaga
+actaaaaacctctagcttataaaaaaagctgattttttttctctttggtTATAAATAtac
+agtaaccttctggtttacctagagtattcaaaaggctgatgaaatttaagttagggtatc
+tctttatacgg
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:+ |TSS peak: 27913979 |Gene/Sequence: AT1G74210  | 27913979.. 27916602   CDS: 27914057 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+tattactactttttattcagaaatataaaatgcaaccttaaaaagtctttgtcaaccaaa
+aacaaatggaatattcggaaaacgtgaattgaagaagaaagatataatattcgcccaaga
+gcggtaagccaagaaacaggtcaatggagtaagagtgatatatcaTATATGTAtatcatt
+agaaacactttattataaatggacaagaactgatagagtgggataagagacaaataagga
+gaatcaaacaa
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:+ |TSS peak: 28636134 |Gene/Sequence: AT1G76320  | 28636134.. 28638972   CDS: 28636298 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+actaacggctcttcgcctttttgctttttcctctttacatctttttctccagtagctttg
+ttagtcaacacattttccaaaaaggttgaaaataagtcaaagtacaaactgaattaccca
+atacggcccaatatcctgattagagagttaggcccAATATATCatcagatttgcaatcgc
+aagtctctttcaacttctcgtcgaatgttatactctcctcagagtttctccggatctttc
+aaaaacaattc
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:- |TSS peak:   651906 |Gene/Sequence: AT1G02890  |   645092..   651906   CDS:   651797 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+atgctttggtcaaaagtgctgattttgtaattaattaatttttgtcgtttctaatacgag
+ggtgaaatttgtttcttaaagtaaaaaaatggaaacttgttaaatgttttagaaatatga
+caaagaaaaaggaaaaaaaaaaaaaaaaaagagtggagatacgaactttTATATAAGaag
+aagagaaagttgcagcacttgtctgaatattattatttaagataaaaccgacttttgcag
+tgaaaatctct
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:- |TSS peak:  1337838 |Gene/Sequence: AT1G04770  |  1336370..  1337838   CDS:  1337766 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+aactggccaagtcggagtcgtgtgagaataatggggacggatagggtacgtggcactatt
+ttataggttagaaaaacgaccagcccgcggtattttagatccagttgacgataatgaacc
+aagacgagaatctgtctaggttccttcttcttcttccacaaTATAATTAtatctttcttc
+acacacccctagagagagaaaggaaggtgttaccggatttaggagagataaagaaggttt
+cttcatttaga
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:- |TSS peak:  2560400 |Gene/Sequence: AT1G08160  |  2559484..  2560400   CDS:  2560334 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+aaagaattaaaaccaaaaaaaaaaaaaaaaaaagtaggaatcttccagcttccaagattt
+cttgattcattcacaagcaatgctaaagaattaagaattttaaatcagtagttttgtgac
+taatccttatacaaaggcaaagaatctaattgtccgtgttagtcccttTATATATAtcgt
+cgaaccatatcaaagcaatcaaatcaatctttgctctctatcctttccaagcaattaact
+gaagtccatca
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:- |TSS peak:  2771480 |Gene/Sequence: AT1G08700  |  2769818..  2771480   CDS:  2771351 |-2000:+1000, +1 is peak TSS mapped | 2 TSSs | TSS = GeneStart |TATA
+aatccagtttaatccactccggtccgacctgaaaatcgaaacatttgatcccgaaaccga
+attttatttttaatatattaaatagatatacttttaaaaaagtagctttgtttgtagtta
+ttgggcctaatgggctgttattgttgtaccgttatttgcccttttgggcTTTAAATGata
+tatcgtaggtcgacacaaacaaaataaaatattggcatagacgagctgctggtcagaaga
+agactcagaag
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:- |TSS peak:  3233107 |Gene/Sequence: AT1G09932  |  3230452..  3233107   CDS:  3233029 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+gaaaaaaaggaaaaagaagaaaactaatgaccaaaaaacacggcatatgagagttgacgt
+gtgacccattcaactataaaaaacttcaaatatactttcaaagtggcttctgagtagctt
+ccatgaaactgactggttgtagtcgatatatactgtatattttgtatattTATATATGat
+gatcacgaacacgaaaggacgaagaagagaagaagaagaaccttacaattgcttttgtaa
+atattgtaggt
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:- |TSS peak:  3495136 |Gene/Sequence: AT1G10585  |  3493958..  3495136   CDS:  3495105 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+aaagatgcatgcatcttattaatttagtgtgtaagctcacggacgcaatcacaaaagcca
+tgactttcttccaaaacatccctttcatctaaatcacgtagctctttctctcaaagttga
+gatttgtgactctgtatctcccggccctctctatctctttaactgTATATAAAgagagat
+ggatttgaaaagagaaacttgtacataaaagcttaaaagaaaacaaaaagaatggggaga
+gcaagagaaat
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:- |TSS peak:  4526061 |Gene/Sequence: AT1G13245  |  4525483..  4526061   CDS:  4525974 |-2000:+1000, +1 is peak TSS mapped | 2 TSSs | TSS = GeneStart |TATA
+caacaacggggacaaatagggcatagatgtttggggggttttgtgaaattgtgaccatat
+aaatcattcaatattcaatgataataaattgcaataacgcaaaaaacacacaagtgggta
+gtgaataagaagtgtgtagggccacgtttcaatatttatctccttcTATAAAAAggactc
+tcttcttctttgtatcctcattttcattaatccttcaatacatctctcaaaccctaagag
+aagaaaaattt
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:- |TSS peak:  6268821 |Gene/Sequence: AT1G18210  |  6266602..  6268821   CDS:  6268778 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+tataacattacttctctttaattagaaaaaaggattttaaataacagatcaaaacattca
+tatttcaaccaaatacagtattcccaaaccagatacgtattataacggaaattaaataca
+caagattcgattccaaacttgtaaatagtgacatctagcgaaaaggtcTATAAAAAggtc
+aaactcatcatcttctaattgctctttatctctctctccaactttacctttaacaaaaaa
+aaaatggcaag
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:- |TSS peak:  6506412 |Gene/Sequence: AT1G18850  |  6504797..  6506412   CDS:  6506118 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+tagaaacattttctacaattagcaaaagaaaaaaaaaaggccagaaaaaaaaaaaattca
+gctaaattcgtcgatgcccaaaatccgataacaccgtaataagtaagagaatacaggggt
+atatttggaaacagattaaaacgcagaaagtagtgttccattTACAAAACcctaaaccct
+aattgctctcgccttcttttagcttttcatctttacctgtctctgcccttaacctcacac
+agatatcgagt
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:- |TSS peak:  7624125 |Gene/Sequence: AT1G21700  |  7619990..  7624125   CDS:  7623967 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+aactaaataattgattcggtttttctcattcaaaattgaaaaataaaaccgaagtaaagt
+tgactttaaccgaagttaaaccaaaatttggattggtcaacgaagcttgaatttcgaaat
+cagaaccctcttgtttgtcgagaaggttaggtcgtcgtggagaatgaattAATATATAga
+gattaatgaaggaaatggtgaaagaaattgcgagaaaaaggtttggtgtttagctcgaga
+gctggaaatca
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:- |TSS peak:  9131766 |Gene/Sequence: AT1G26390  |  9130004..  9131766   CDS:  9131743 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+tcgcctcaatcatgaaaacgaatcctctgtagtagtgtaatatacgttgtaatttccata
+agcaaattcaatataatcctacattttgaaagaaaaaaaaaacaaattcaaagaaaacct
+atatgacaaaagtcaaacataaattaacgttctcactacattttcatcTATATATAgatc
+ctaatagaggcgtaagacatattacaaaacaaaaacaaacacaatgaaaggaacactttc
+agttttgtgtc
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:- |TSS peak:  9406243 |Gene/Sequence: AT1G27090  |  9403898..  9406243   CDS:  9406085 |-2000:+1000, +1 is peak TSS mapped | 2 TSSs | TSS = GeneStart |TATA
+ataataaattgacaaataatttttttatacaagaaacgtaatccacaaaaataatttgaa
+aaaatctacacaaaatagttgaaaatagaacactcctatttatttatttttttccttttg
+ttttgagacggataatttcacttgcattactggaatttttcatcaattatTATATATTta
+gctcaaaactatcactacccaaaaaccagacgcttcaacttatccccatttctctgaaaa
+ccctaacaaat
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:- |TSS peak: 10905691 |Gene/Sequence: AT1G30750  | 10904889.. 10905691   CDS: 10905670 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+aacacagcatataagcacaaaacagtgatgtaatagttgatacagaaacaaagacactat
+atggttggtttagttggattttgtgtttcaggtcaactactttcttttttctctccatca
+actcctcagacaatcttaaagaagctaacaactccaggtttgtctgtcTATAAGTTctgc
+tgtttagtaaaccggaaaatacactgggaaaactcaagaaaatggacatgaaattcgcca
+aaaccgggaga
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:- |TSS peak: 11222764 |Gene/Sequence: AT1G31350  | 11221321.. 11222764   CDS: 11222687 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+aaatataactaatattattttactgataaaattctctatagccacttgaatactataatc
+atatgtgatgctataaatgtataattttaattttataagttagctttacgtatttatgat
+agagatggtaacactttccaactttggccttttcgattttgaTATATGTAtggctcctac
+gcctttacttacttttccctctcattcattacacttcacgcctcctttatctctctttaa
+taactccaaaa
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:- |TSS peak: 13031130 |Gene/Sequence: AT1G35430  | 13030531.. 13031130   CDS: 13031009 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+tttttgtactcgttagcttatctgtcttcagaaatgttcttgtactttccgactctttgt
+atttcataataactttcctccaaactggtcttgctcatataacaaacagatttatcaaat
+tttgtaaataagtaaaaaacagtcacatgacaaaaaccaaacacaagtaTATAAAAAagt
+caaataaaaagaacaaagtcatgtgccaaagaagcttctccatgatcccactcatttacc
+aaagtcgtgtc
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:- |TSS peak: 19339782 |Gene/Sequence: AT1G52000  | 19336828.. 19339782   CDS: 19339369 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+atttacccttttttcaaccttcttttgtcatccatttaagaaattttggcaaaacgtttt
+ttttttttgtgggtgagaagcatattctatattttttttgtaaccaaaaatgtttaatat
+tgccatgtgacaaataacagtaactaaccttatcccgaaaatggcAATAAATAtggaacc
+attacccaccctcaattattgcaatttactctcctccaatcatcctccactcaggtacgt
+actcgctctct
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:- |TSS peak: 20018591 |Gene/Sequence: AT1G53625  | 20018078.. 20018591   CDS: 20018482 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+gttttccgtggacttttgtcaaagtaaacctagaggggaagtctcatttgcctgctagca
+gaaatgaaatttcttgcgcaatttcatgtatttcagaaaaacaaatattttacgcaagtc
+tatattattaaaatatcttttgtcaaagtcaaaggcaatttgagTATATATAaaaggtac
+atatggcatatgtttacatcagtattcagaacatttaaaaacaaaagcttagaatttttt
+tataggtgcat
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:- |TSS peak: 20848848 |Gene/Sequence: AT1G55750  | 20843861.. 20848848   CDS: 20848801 |-2000:+1000, +1 is peak TSS mapped | 2 TSSs | TSS = GeneStart |TATA
+gatgaaaatcgacataaggatgaatcttacattttgatgcccctaattagttttgacttt
+ttgttcattttatcacatgaccaatcataatgggccgtagcagtttaattcgggtcagta
+agttgggtcatgattcgggtcggatacttattcccgttctatagTATAAACCtagattcc
+aatttcgcttgatttccgatgaattgatcgactggaaaacagagaaccaccgtttctaca
+gttggatatgg
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:- |TSS peak: 24318236 |Gene/Sequence: AT1G65440  | 24310330.. 24318236   CDS: 24317990 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+cactctaattataagataagttgaataaactttgttttgtttttagtctcgacttttttt
+tctttacatttcttcaaaaagtataataatttttaaaaacattattaaaaaaaaaatatt
+tctaaaacgcagagaaaaaattgaggcaaatctgtcagTATAAACTtgtaatttcatcgt
+ctccgtcttcttcttcgtttatcagttcttcgtcgcctttcgcttatgaaaaattcacac
+tggtaaagctt
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:- |TSS peak: 24532957 |Gene/Sequence: AT1G65920  | 24528765.. 24532957   CDS: 24532867 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+aaaaaacagcgaacaaaataaatttagcaaactcggtggcataaacgttgggagcgagaa
+tcttgatttttttttggttatttaaagaaataaaagtattaaattgtacgtttatactat
+tacactgttttagctacttagcttaaaaaaatcatgtttttttataagaaCATAAATAcg
+agctgagagagagagagagtacacaaatttgtttcacattcctctaaattccaaacaaat
+tgtttatagag
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:- |TSS peak: 24706699 |Gene/Sequence: AT1G66270  | 24703653.. 24706699   CDS: 24706658 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+atccaaaatggatgaagaacttatattagttccacgcacaatataatatgttccaaacta
+agtaagaacacaacggtcgaggtcatgcaatgaatcatcctatatataaaatagttttac
+taaacaattatattttagtcactcgttaacaaacaatcaaaatcgcTATATAAAgaactc
+cgattggatgtaaacaaatcatcataaacttgttctcttccagaagaaactaaaaacaaa
+aatggcattgc
+> PPDB: A.thaliana |tair ver6.0, tigr 5.0 |Chr: 1 |Strand:- |TSS peak: 25837507 |Gene/Sequence: AT1G68780  | 25835466.. 25837507   CDS: 25836998 |-2000:+1000, +1 is peak TSS mapped | 1 TSSs | TSS = GeneStart |TATA
+taccattattgtttctttgctttggtaactgtgtcttgcttttaaagatttggcttcttt
+ttttttttttggttcataagttttaattgctattgctaagtcgttgtctaaatctctggc
+tatgtaccctataacttcacaacttagttcaatttgcttctactctatgTATAAAACcag
+ctttgagcatgttaaacattgtaaactttttaagatcctttacattttctttaagtcttt
+atcaaatactt

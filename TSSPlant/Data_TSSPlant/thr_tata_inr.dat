@@ -1,0 +1,5 @@
+Threshold for TATA 
+      3.0000     Monocot/Dicot 
+Thresholds for INR 
+      1.5000     Monocot/Dicot, TATA 
+      1.5000     Monocot/Dicot, TATAless 

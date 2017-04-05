@@ -1,0 +1,9 @@
+Mean TATA-TSS, TATA-INR and INR-TSS distances
+Class: TATA  | Feature: TATA-TSS         
+    0.000001
+Class: TATA  | Feature: TATA-INR         
+    0.000001
+Class: TATA  | Feature: INR-TSS         
+    0.000001
+Class: TATAless  | Feature: INR-TSS         
+    0.000001

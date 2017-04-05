@@ -1,0 +1,109 @@
+Class: Monocot/Dicot, TATA+
+16                      --- Number of features
+
+Feature: TATA
+SStata.h
+SStataC.h
+  159  182      	Search region 1 (Absolute Positions), 2I5 format
+    8    8              Length of Classification motifs 
+Feature: INR
+SSinr_tata.h
+SSinrC_tata.h
+  197  204      	Search region 1 (Absolute Positions), 2I5 format
+    8    8              Length of Classification motifs
+Feature: YP
+SSyp_tata.h
+  151  235              Search region 1 (Absolute Positions), 2I5 format
+   10                   Length of Classification motifs
+Feature: DPE
+SSdpe_tata.h
+  220  235      	Search region 1 (Absolute Positions), 2I5 format
+    5                   Length of Classification motifs    
+Feature: 3-mers
+SStrip_tata.h
+  181  220      	Search region 1 (Absolute Positions), 2I5 format
+Feature: 4-mers/1
+SStetra_1_200_tata.h
+    1  200       	Search region 1 (Absolute Positions), 2I5 format
+Feature: 4-mers/2
+SStetra_201_251_tata.h
+  201  251      	Search region 1 (Absolute Positions), 2I5 format
+Feature: 6-mers/1
+SShexa_1_200_tata.h
+    1  200      	Search region 1 (Absolute Positions), 2I5 format
+Feature: 6-mers/2
+SShexa_201_251_tata.h
+  201  251      	Search region 1 (Absolute Positions), 2I5 format
+Feature: CG-skew
+SScg_tata.h
+    1  251      	Search region 1 (Absolute Positions), 2I5 format 
+Feature: AC-skew
+SSac_tata.h
+    1  251      	Search region 1 (Absolute Positions), 2I5 format 
+Feature: TATA-TSS
+Dmean.dat
+SSd_TATA_TSS_tata.h
+Feature: TATA-INR
+Dmean.dat
+SSd_TATA_INR_tata.h
+Feature: INR-TSS
+Dmean.dat
+SSd_INR_TSS_tata.h
+Feature: REdens1
+SSre_tata1.h
+SSre_tata1.list
+    1  200              Search region, + chain (Absolute Positions), 2I5 format
+Feature: REdens2
+SSre_tata2.h
+SSre_tata2.list
+  101  200              Search region, +/- chains (Absolute Positions), 2I5 format
+//
+Class: Monocot/Dicot, TATA-
+13                     --- Number of features
+
+Feature: INR
+SSinr_tataless.h
+SSinrC_tataless.h
+  197  204      	Search region 1 (Absolute Positions), 2I5 format
+    7    7              Length of Classification motifs
+Feature: YP
+SSyp_tataless.h
+  151  235              Search region 1 (Absolute Positions), 2I5 format
+   10                   Length of Classification motifs
+Feature: DPE
+SSdpe_tataless.h
+  220  235      	Search region 1 (Absolute Positions), 2I5 format
+    5                   Length of Classification motifs 
+Feature: 3-mers
+SStrip_tataless.h
+  181  220      	Search region 1 (Absolute Positions), 2I5 format
+Feature: 4-mers/1
+SStetra_1_200_tataless.h
+    1  200       	Search region 1 (Absolute Positions), 2I5 format
+Feature: 4-mers/2
+SStetra_201_251_tataless.h
+  201  251      	Search region 1 (Absolute Positions), 2I5 format
+Feature: 6-mers/1
+SShexa_1_200_tataless.h
+    1  200      	Search region 1 (Absolute Positions), 2I5 format
+Feature: 6-mers/2
+SShexa_201_251_tataless.h
+  201  251      	Search region 1 (Absolute Positions), 2I5 format
+Feature: CG-skew
+SScg_tataless.h
+    1  251      	Search region 1 (Absolute Positions), 2I5 format 
+Feature: AC-skew
+SSac_tataless.h
+    1  251      	Search region 1 (Absolute Positions), 2I5 format 
+Feature: INR-TSS
+Dmean.dat
+SSd_INR_TSS_tataless.h
+Feature: REdens1
+SSre_tataless1.h
+SSre_tataless1.list
+    1  200              Search region, + chain (Absolute Positions), 2I5 format
+Feature: REdens2
+SSre_tataless2.h
+SSre_tataless2.list
+  101  200              Search region, +/- chains (Absolute Positions), 2I5 format
+//
